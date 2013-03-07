@@ -16,6 +16,9 @@
       <header class="hero-unit">
         <h1>header <a href="<?php echo home_url(); ?>"><?php bloginfo('name'); ?></a></h1>
         
+      
+        
+      </header>
        <nav class="navbar">
        <div class="navbar-inner">
             <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
@@ -46,5 +49,3 @@
             </div>
         </div>
        </nav>
-        
-      </header>
